@@ -13,7 +13,7 @@ const ThreesappLayout = () => {
 
             <div className="flex flex-1">
                 <MainSidebar/>
-                <div className="flex flex-1 bg-black">
+                <div className="flex flex-1 bg-primary1">
                     <div className="flex flex-1 rounded-xl overflow-hidden ">
                         <SideSection />
                         <MainSection />
